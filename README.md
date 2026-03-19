@@ -20,7 +20,7 @@ BoyfriendTV Downloader is a browser extension for users who want a simpler way t
 
 ## Preview
 
-![BoyfriendTV Downloader workflow preview](assets/workflow-preview.svg)
+![BoyfriendTV Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
